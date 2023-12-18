@@ -1,0 +1,10 @@
+body {
+    background-position: center center;
+    background-size: cover;
+    min-height: 40vh;
+    opacity: 99;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}

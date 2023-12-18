@@ -1,0 +1,20 @@
+.scrollable-container {
+    max-height: 500px; /* Adjust the maximum height as needed */
+    overflow-y: auto;
+}
+
+.disease-card {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.disease-card img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.disease-details {
+    flex-grow: 1;
+}

@@ -1,0 +1,38 @@
+img.home {
+    width: 800px;
+    height: 500px;
+    background: url("../images/v104_389.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 75px;
+    left: 543px;
+    overflow: hidden;
+}
+
+h3.home {
+    width: 374px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 125px;
+    left: 70px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+}
+p.home {
+    width: 629px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 200px;
+    left: 70px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
